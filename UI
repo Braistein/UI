@@ -17,7 +17,7 @@ local MottoLib = {
 			Stroke = Color3.fromRGB(55, 55, 55),
 			Divider = Color3.fromRGB(55, 55, 55),
 			Text = Color3.fromRGB(255, 0, 0),
-			TextDark = Color3.fromRGB(136, 8, 8)
+			TextDark = Color3.fromRGB(139, 0, 0)
 		}
 	},
 	SelectedTheme = "Default",
