@@ -14,8 +14,8 @@ local MottoLib = {
 		Default = {
 			Main = Color3.fromRGB(13, 13, 13),
 			Second = Color3.fromRGB(25, 25, 25),
-			Stroke = Color3.fromRGB(55, 55, 55),
-			Divider = Color3.fromRGB(55, 55, 55),
+			Stroke = Color3.fromRGB(30, 30, 30),
+			Divider = Color3.fromRGB(30, 30, 30),
 			Text = Color3.fromRGB(255, 0, 0),
 			TextDark = Color3.fromRGB(135, 7, 4)
 		}
